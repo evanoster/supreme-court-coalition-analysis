@@ -1,21 +1,13 @@
----
+## 📊 Explore the Analysis
 
-## 📊 Explore the Supreme Court Analysis
+### 🔍 [Supreme Court Analysis Notebook →](notebooks/your_notebook_name.ipynb)
 
-### 🔍 **[Complete Jupyter Notebook with Code & Results →](notebooks/your_notebook_name.ipynb)**
+**What's inside:**
+- Complete data analysis with code and outputs
+- Interactive visualizations and charts  
+- Machine learning model development
+- Key findings and statistical results
 
-**Inside this analysis you'll discover:**
-- 🏛️ **Data from 8,500+ Supreme Court cases** (1946-2023)
-- 🤖 **Machine learning model** achieving 78% prediction accuracy  
-- 🕸️ **Interactive network analysis** of justice voting coalitions
-- 📈 **Statistical trends** showing increasing Court polarization
-- 📊 **Professional visualizations** with Plotly and Matplotlib
-
-### Quick Access Options
-- **[📖 Fast NBViewer](https://nbviewer.org/github/yourusername/repo-name/blob/main/notebooks/your_notebook_name.ipynb)** *(if GitHub is slow)*
-- **[🚀 Run Live in Colab](https://colab.research.google.com/github/yourusername/repo-name/blob/main/notebooks/your_notebook_name.ipynb)** *(interactive version)*
-
-### Key Technologies Demonstrated
-`Python` • `Pandas` • `Scikit-learn` • `NetworkX` • `Plotly` • `Statistical Analysis` • `Machine Learning`
-
----
+**Alternative viewers:**
+- [NBViewer (fast loading)](https://nbviewer.org/github/evanoster/repo-name/blob/main/notebooks/your_notebook_name.ipynb)
+- [Google Colab (interactive)](https://colab.research.google.com/github/evanoster/repo-name/blob/main/notebooks/your_notebook_name.ipynb)
