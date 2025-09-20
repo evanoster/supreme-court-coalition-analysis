@@ -14,7 +14,7 @@ Comprehensive analysis of Supreme Court voting patterns and coalition formation 
 
 ## 📊 Explore the Supreme Court Coalition Analysis
 
-### 🔍 [Complete Analysis Notebook →](notebooks/Supreme%20Court%20V4.ipynb)
+### 🔍 [Complete Analysis Notebook →](https://github.com/evanoster/supreme-court-coalition-analysis/blob/main/notebooks/Supreme%20Court%20V4.ipynb)
 
 **What's inside:**
 - **Supreme Court Database analysis** (SCDB 2024 V4 - latest version)
@@ -56,7 +56,7 @@ Comprehensive analysis of Supreme Court voting patterns and coalition formation 
 ## 🚀 Getting Started
 
 ### Quick Start (No Installation)
-1. **[Click here to view the analysis](notebooks/Supreme%20Court%20V4.ipynb)** - See all code, outputs, and visualizations
+1. **[Click here to view the analysis](https://github.com/evanoster/supreme-court-coalition-analysis/blob/main/notebooks/Supreme%20Court%20V4.ipynb)** - See all code, outputs, and visualizations
 2. **[Open in Google Colab](https://colab.research.google.com/github/evanoster/supreme-court-coalition-analysis/blob/main/notebooks/Supreme%20Court%20V4.ipynb)** - Run the analysis interactively
 3. **[NBViewer version](https://nbviewer.org/github/evanoster/supreme-court-coalition-analysis/blob/main/notebooks/Supreme%20Court%20V4.ipynb)** - Fast loading alternative
 
@@ -140,7 +140,7 @@ This project is open source and available under the MIT License.
 
 ## 🔗 Quick Links
 
-- **[📓 View Analysis Notebook](notebooks/Supreme%20Court%20V4.ipynb)** - Complete analysis with code and results
+- **[📓 View Analysis Notebook](https://github.com/evanoster/supreme-court-coalition-analysis/blob/main/notebooks/Supreme%20Court%20V4.ipynb)** - Complete analysis with code and results
 - **[🚀 Run in Google Colab](https://colab.research.google.com/github/evanoster/supreme-court-coalition-analysis/blob/main/notebooks/Supreme%20Court%20V4.ipynb)** - Interactive version
 - **[📖 NBViewer](https://nbviewer.org/github/evanoster/supreme-court-coalition-analysis/blob/main/notebooks/Supreme%20Court%20V4.ipynb)** - Fast loading notebook viewer
 
