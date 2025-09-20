@@ -1,6 +1,6 @@
 ## 📊 Explore the Analysis
 
-### 🔍 [Supreme Court Analysis Notebook →](notebooks/Supreme Court V3.ipynb)
+### 🔍 [Supreme Court Analysis Notebook →](notebooks/Supreme Court V4.ipynb)
 
 **What's inside:**
 - Complete data analysis with code and outputs
@@ -9,5 +9,5 @@
 - Key findings and statistical results
 
 **Alternative viewers:**
-- [NBViewer (fast loading)](https://nbviewer.org/github/evanoster/supreme-court-coalition-analysis/blob/main/notebooks/Supreme Court V3.ipynb)
-- [Google Colab (interactive)](https://colab.research.google.com/github/evanoster/supreme-court-coalition-analysis/blob/main/notebooks/Supreme Court V3.ipynb)
+- [NBViewer (fast loading)](https://nbviewer.org/github/evanoster/supreme-court-coalition-analysis/blob/main/notebooks/Supreme Court V4.ipynb)
+- [Google Colab (interactive)](https://colab.research.google.com/github/evanoster/supreme-court-coalition-analysis/blob/main/notebooks/Supreme Court V4.ipynb)
