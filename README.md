@@ -4,6 +4,8 @@
 
 Comprehensive analysis of Supreme Court voting patterns and coalition formation using advanced data science techniques. This project analyzes the complete Supreme Court Database (SCDB 1953-2025, Warren-Roberts) to uncover hidden patterns in judicial decision-making and visualize justice relationships.
 
+Harold J. Spaeth, Lee Epstein, et al. 2025 Supreme Court Database, Version 2025 Release 1. URL: http://supremecourtdatabase.org
+
 ## 🎯 Key Features
 
 - **Coalition Network Analysis**: Interactive visualization of justice voting relationships
