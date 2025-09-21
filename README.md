@@ -14,7 +14,7 @@ Comprehensive analysis of Supreme Court voting patterns and coalition formation 
 
 ## 📊 Explore the Supreme Court Coalition Analysis
 
-### 🔍 [Complete Analysis Notebook →](https://github.com/evanoster/supreme-court-coalition-analysis/blob/main/notebooks/Supreme%20Court%20V4.ipynb)
+### 🔍 [Complete Analysis Notebook →](https://github.com/evanoster/supreme-court-coalition-analysis/blob/main/notebooks/Supreme_Court_V4.ipynb)
 
 **What's inside:**
 - **Supreme Court Database analysis** (SCDB 2024 V4 - latest version)
@@ -24,8 +24,8 @@ Comprehensive analysis of Supreme Court voting patterns and coalition formation 
 - **Historical trends** in judicial decision-making
 
 ### Alternative Viewers
-- **[📖 NBViewer (fast loading)](https://nbviewer.org/github/evanoster/supreme-court-coalition-analysis/blob/main/notebooks/Supreme%20Court%20V4.ipynb)**
-- **[🚀 Google Colab (interactive)](https://colab.research.google.com/github/evanoster/supreme-court-coalition-analysis/blob/main/notebooks/Supreme%20Court%20V4.ipynb)**
+- **[📖 NBViewer (fast loading)](https://nbviewer.org/github/evanoster/supreme-court-coalition-analysis/blob/main/notebooks/Supreme_Court_V4.ipynb)**
+- **[🚀 Google Colab (interactive)](https://colab.research.google.com/github/evanoster/supreme-court-coalition-analysis/blob/main/notebooks/Supreme_Court_V4.ipynb)**
 
 *The Colab version automatically downloads the Supreme Court Database and sets up the environment - no setup required!*
 
@@ -56,9 +56,9 @@ Comprehensive analysis of Supreme Court voting patterns and coalition formation 
 ## 🚀 Getting Started
 
 ### Quick Start (No Installation)
-1. **[Click here to view the analysis](https://github.com/evanoster/supreme-court-coalition-analysis/blob/main/notebooks/Supreme%20Court%20V4.ipynb)** - See all code, outputs, and visualizations
-2. **[Open in Google Colab](https://colab.research.google.com/github/evanoster/supreme-court-coalition-analysis/blob/main/notebooks/Supreme%20Court%20V4.ipynb)** - Run the analysis interactively
-3. **[NBViewer version](https://nbviewer.org/github/evanoster/supreme-court-coalition-analysis/blob/main/notebooks/Supreme%20Court%20V4.ipynb)** - Fast loading alternative
+1. **[Click here to view the analysis](https://github.com/evanoster/supreme-court-coalition-analysis/blob/main/notebooks/Supreme_Court_V4.ipynb)** - See all code, outputs, and visualizations
+2. **[Open in Google Colab](https://colab.research.google.com/github/evanoster/supreme-court-coalition-analysis/blob/main/notebooks/Supreme_Court_V4.ipynb)** - Run the analysis interactively
+3. **[NBViewer version](https://nbviewer.org/github/evanoster/supreme-court-coalition-analysis/blob/main/notebooks/Supreme_Court_V4.ipynb)** - Fast loading alternative
 
 ### Local Installation
 ```bash
@@ -70,7 +70,7 @@ cd supreme-court-coalition-analysis
 pip install pandas numpy matplotlib seaborn plotly scikit-learn networkx jupyter
 
 # Launch Jupyter notebook
-jupyter notebook "notebooks/Supreme Court V4.ipynb"
+jupyter notebook "notebooks/Supreme_Court_V4.ipynb"
 ```
 
 ## 📁 Project Structure
@@ -78,7 +78,7 @@ jupyter notebook "notebooks/Supreme Court V4.ipynb"
 ```
 supreme-court-coalition-analysis/
 ├── notebooks/
-│   └── Supreme Court V4.ipynb    # Main analysis notebook
+│   └── Supreme_Court_V4.ipynb    # Main analysis notebook
 ├── data/
 │   └── raw/
 │       └── SCDB_2024_V4.csv     # Supreme Court Database
@@ -140,9 +140,9 @@ This project is open source and available under the MIT License.
 
 ## 🔗 Quick Links
 
-- **[📓 View Analysis Notebook](https://github.com/evanoster/supreme-court-coalition-analysis/blob/main/notebooks/Supreme%20Court%20V4.ipynb)** - Complete analysis with code and results
-- **[🚀 Run in Google Colab](https://colab.research.google.com/github/evanoster/supreme-court-coalition-analysis/blob/main/notebooks/Supreme%20Court%20V4.ipynb)** - Interactive version
-- **[📖 NBViewer](https://nbviewer.org/github/evanoster/supreme-court-coalition-analysis/blob/main/notebooks/Supreme%20Court%20V4.ipynb)** - Fast loading notebook viewer
+- **[📓 View Analysis Notebook](https://github.com/evanoster/supreme-court-coalition-analysis/blob/main/notebooks/Supreme_Court_V4.ipynb)** - Complete analysis with code and results
+- **[🚀 Run in Google Colab](https://colab.research.google.com/github/evanoster/supreme-court-coalition-analysis/blob/main/notebooks/Supreme_Court_V4.ipynb)** - Interactive version
+- **[📖 NBViewer](https://nbviewer.org/github/evanoster/supreme-court-coalition-analysis/blob/main/notebooks/Supreme_Court_V4.ipynb)** - Fast loading notebook viewer
 
 ---
 
