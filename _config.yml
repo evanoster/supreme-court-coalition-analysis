@@ -1,0 +1,58 @@
+# Site settings
+title: Supreme Court Coalition Analysis
+description: Data analysis of Supreme Court voting coalitions and judicial behavior patterns using Python
+url: "https://evanoster.github.io"
+baseurl: "/supreme-court-coalition-analysis"
+
+# Author information
+author:
+  name: Your Name                       # Replace with your name
+  email: your.email@example.com         # Replace with your email
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Exclude files from processing
+exclude:
+  - vendor/
+  - .bundle/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Include files
+include:
+  - _pages
+
+# Collections (optional - for organizing multiple analyses)
+collections:
+  analyses:
+    output: true
+    permalink: /:collection/:name/
+
+# Default layouts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
