@@ -152,3 +152,6 @@ This project is open source and available under the MIT License.
 ⭐ **Star this repository** if you find the analysis interesting or useful!
 
 📊 **Explore the data** and discover insights about America's highest court!
+
+
+
