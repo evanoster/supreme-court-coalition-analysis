@@ -22,8 +22,8 @@ This project analyzes Supreme Court voting patterns to identify coalitions, exam
 ### Featured Visualizations
 
 #### Coalition Network Analysis
-![Coalition Network]({{ site.baseurl }}/assets/images/coalition_network.png)
-*Figure 1: Network visualization showing justice voting coalitions and agreement patterns*
+![MDS Coalitiond Stable Periods]({{ site.baseurl }}/assets/images/mds_stable_periods.png)
+*Figure 1: MDS visualization showing justice voting coalitions during stable periods*
 
 #### Voting Patterns Over Time
 ![Voting Trends]({{ site.baseurl }}/assets/images/voting_trends.png)
