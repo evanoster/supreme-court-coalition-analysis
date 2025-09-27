@@ -3,9 +3,9 @@ layout: default
 title: Home
 --- 
 
-# Supreme Court Coalition Analysis2
+# Supreme Court Coalition Analysis
 
-Welcome2 to my analysis of Supreme Court voting coalitions and judicial behavior patterns! This site showcases insights and visualizations generated from Python analysis of Supreme Court decisions using Jupyter notebooks.
+Welcome to my analysis of Supreme Court voting coalitions and judicial behavior patterns! This site showcases insights and visualizations generated from Python analysis of Supreme Court decisions using Jupyter notebooks.
 
 ## Project Overview
 
@@ -124,8 +124,8 @@ plt.show()
 
 Interested in this analysis or have questions? Feel free to:
 - Open an issue on the [GitHub repository](https://github.com/evanoster/supreme-court-coalition-analysis/issues)
-- Connect with me on [LinkedIn](https://linkedin.com/in/yourprofile) 
-- Email: your.email@example.com
+- Connect with me on [LinkedIn](https://linkedin.com/in/evanoster)
+- Email: evan.oster@scimark.net
 
 ---
 
