@@ -129,4 +129,4 @@ Interested in this analysis or have questions? Feel free to:
 
 ---
 
-*Last updated: {{ site.time | date: "%B %d, %Y" }}*
+<!-- *Last updated: {{ site.time | date: "%B %d, %Y" }}* -->
