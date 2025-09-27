@@ -29,16 +29,16 @@ This project analyzes Supreme Court voting patterns to identify coalitions, exam
 ![Voting Trends]({{ site.baseurl }}/assets/images/voting_trends.png)
 *Figure 2: Temporal analysis of coalition stability and ideological drift*
 
-## Interactive Analysis
-
-For interactive charts and detailed exploration:
-
-<div style="width: 100%; height: 600px; border: 1px solid #ddd; margin: 20px 0;">
-  <iframe src="{{ site.baseurl }}/assets/charts/interactive_chart.html" 
-          width="100%" height="100%" frameborder="0">
-    <p>Your browser does not support iframes. <a href="{{ site.baseurl }}/assets/charts/interactive_chart.html">View the interactive chart here</a>.</p>
-  </iframe>
-</div>
+<!--## Interactive Analysis-->
+<!--   -->
+<!--For interactive charts and detailed exploration:-->
+<!--    -->
+<!--<div style="width: 100%; height: 600px; border: 1px solid #ddd; margin: 20px 0;"> -->
+<!--  <iframe src="{{ site.baseurl }}/assets/charts/interactive_chart.html" -->
+ <!--         width="100%" height="100%" frameborder="0">-->
+ <!--   <p>Your browser does not support iframes. <a href="{{ site.baseurl }}/assets/charts/interactive_chart.html">View the--> <!--interactive chart here</a>.</p>-->
+  <!--</iframe>-->
+<!--</div>-->
 
 ## Methodology
 
