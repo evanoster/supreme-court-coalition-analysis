@@ -23,7 +23,7 @@ This project analyzes Supreme Court voting patterns to identify coalitions, exam
 
 #### Coalition Network Analysis
 ![MDS Coalitiond Stable Periods]({{ site.baseurl }}/assets/images/mds_stable_periods.png)
-*Figure 1: MDS visualization showing justice voting coalitions during stable periods*
+*Figure 1: MDS visualization showing justice voting coalitions during stable (no turnover) periods*
 
 #### Voting Patterns Over Time
 ![Voting Trends]({{ site.baseurl }}/assets/images/voting_trends.png)
