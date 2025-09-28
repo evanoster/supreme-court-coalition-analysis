@@ -24,7 +24,7 @@ This project analyzes the complete Supreme Court Database* (SCDB 1953-2025, Warr
 
 ### Areas for Future Inquiry
 
-- **Case Type Analysis**: Voting behavior variations across constitutional law, civil rights, and other legal domains
+- **Case Type and Issues Analysis**: Voting behavior variations across constitutional law, civil rights, and other legal domains, as well as analytis across specific legal issues
 
 ### Featured Visualizations
 
