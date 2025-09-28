@@ -13,7 +13,7 @@ This project analyzes Supreme Court voting patterns to identify coalitions, exam
 
 This project analyzes the Supreme Court Database* (SCDB 1953-2025, Warren-Roberts).
 
-*Harold J. Spaeth, Lee Epstein, et al. 2025 Supreme Court Database, Version 2025 Release 1. URL: [http://supremecourtdatabase.org]
+*Harold J. Spaeth, Lee Epstein, et al. 2025 Supreme Court Database, Version 2025 Release 1. URL: (http://supremecourtdatabase.org)
 
 ## Key Findings
 
