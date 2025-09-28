@@ -11,9 +11,9 @@ Welcome to my analysis of Supreme Court voting coalitions and judicial behavior 
 
 This project analyzes Supreme Court voting patterns to identify coalitions, examine judicial behavior, and understand decision-making trends over time. The analysis includes data cleaning, exploratory data analysis, coalition detection algorithms, and visualization of key judicial relationships and patterns.
 
-This project analyzes the complete Supreme Court Database* (SCDB 1953-2025, Warren-Roberts).
+This project analyzes the Supreme Court Database* (SCDB 1953-2025, Warren-Roberts).
 
-*Harold J. Spaeth, Lee Epstein, et al. 2025 Supreme Court Database, Version 2025 Release 1. URL: http://supremecourtdatabase.org
+*Harold J. Spaeth, Lee Epstein, et al. 2025 Supreme Court Database, Version 2025 Release 1. URL: [http://supremecourtdatabase.org]
 
 ## Key Findings
 
@@ -24,7 +24,7 @@ This project analyzes the complete Supreme Court Database* (SCDB 1953-2025, Warr
 
 ### Areas for Future Inquiry
 
-- **Case Type and Issues Analysis**: Voting behavior variations across constitutional law, civil rights, and other legal domains, as well as analytis across specific legal issues
+- **Case Type and Issues Analysis**: Voting behavior variations across constitutional law, civil rights, and other legal domains, as well as analysis of specific legal issues
 
 ### Featured Visualizations
 
