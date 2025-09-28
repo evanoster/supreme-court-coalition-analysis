@@ -17,6 +17,9 @@ This project analyzes Supreme Court voting patterns to identify coalitions, exam
 
 - **Coalition Patterns**: Identification of consistent voting blocs among justices across different case types
 - **Temporal Trends**: How judicial coalitions have evolved over different Supreme Court eras
+
+### Areas for Future Inquiry
+
 - **Case Type Analysis**: Voting behavior variations across constitutional law, civil rights, and other legal domains
 
 ### Featured Visualizations
