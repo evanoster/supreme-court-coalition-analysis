@@ -28,21 +28,26 @@ This project analyzes the Supreme Court Database* (SCDB 1953-2025, Warren-Robert
 
 ### Featured Visualizations
 
+
 #### Coalition Network Analysis
 ![MDS Coalitions Stable Periods]({{ site.baseurl }}/assets/images/mds_stable_periods.png)
 *Figure 1: MDS visualization showing justice voting coalitions during stable (no turnover) periods*
+
 
 #### Justice Pair Agreement Rates
 ![Justice Pairs Agreement]({{ site.baseurl }}/assets/images/justice_pair_agreements_boxplot.png)
 *Figure 4: Justice Pair Agreement Rates 1953-2024*
 
+
 #### Justice Pair Agreement Rates
 ![Justice Pairs Agreement]({{ site.baseurl }}/assets/images/justice_pair_agreements_boxplot_by_type.png)
 *Figure 5: Justice Pair Agreement Rates 1953-2024 by Party of Appointing President*
 
+
 #### Justice Pair Agreement Rates
 ![Justice Pairs Agreement]({{ site.baseurl }}/assets/images/justice_pair_agreements.png)
 *Figure 2: Justice Pair Agreement Rates over Time by Party of Appointing President*
+
 
 #### Justice Pair Agreement Rates
 ![Justice Pairs Agreement]({{ site.baseurl }}/assets/images/justice_pair_agreements_by_type.png)
