@@ -29,7 +29,7 @@ This project analyzes the Supreme Court Database* (SCDB 1953-2025, Warren-Robert
 ### Featured Visualizations
 
 
-#### Coalition Network Analysis
+#### Coalition Analysis over Time
 ![MDS Coalitions Stable Periods]({{ site.baseurl }}/assets/images/mds_stable_periods.png)
 *Figure 1: MDS visualization showing justice voting coalitions during stable (no turnover) periods*"\"
 
@@ -61,6 +61,10 @@ This project analyzes the Supreme Court Database* (SCDB 1953-2025, Warren-Robert
 #### Court Composition by Party of Appointing President
 ![Court Composition by Party]({{ site.baseurl }}/assets/images/justices_served_by_year.png)
 *Figure 7: Court Composition by Party of Appointing President 1953 to 2024*
+
+#### Camparison of Segmentation Methods
+![Comparison of Segmentation Methods]({{ site.baseurl }}/assets/images/method_comparison_2023_24.png)
+*Figure 8: Camparison of Segmentation (Dimensionality Reduction) Methods Applied to 2023 to 2024*
 
 <!--## Interactive Analysis-->
 <!--   -->
@@ -134,8 +138,8 @@ plt.show()
 | Metric | Value |
 |--------|-------|
 | Total Cases Analyzed | [Your number] |
-| Time Period | [Your date range] |
-| Number of Justices | [Your count] |
+| Time Period | [1953 to 2024 Court Sessions, Warren to Roberts] |
+| Number of Justices | [37] |
 | Major Coalitions Identified | [Your findings] |
 | Average Coalition Stability | [Your metric] |
 
