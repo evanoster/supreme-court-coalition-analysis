@@ -141,7 +141,7 @@ This project analyzes the Supreme Court Database* (SCDB 1953-2025, Warren-Robert
 | Metric | Value |
 |--------|-------|
 | Total Cases Analyzed | 8,529 Unique Case IDs |
-| Time Period | 1953/54 to 2023/24 Court Sessions, Warren to Roberts |
+| Time Period | 1953/54 to 2024/25 Court Sessions, Warren to Roberts |
 | Number of Justices | 37 |
 | Major Coalitions Identified | Three during 2022/23 to 2024/25 |
 
@@ -154,10 +154,10 @@ This project analyzes the Supreme Court Database* (SCDB 1953-2025, Warren-Robert
 
 ## Navigation
 
-- **[Detailed Analysis]({{ site.baseurl }}/pages/detailed-analysis)** - In-depth exploration of results
-- **[Methodology]({{ site.baseurl }}/pages/methodology)** - Technical details of the analysis approach
-- **[Data Dictionary]({{ site.baseurl }}/pages/data-dictionary)** - Variable definitions and descriptions
-- **[GitHub Repository](https://github.com/evanoster/supreme-court-coalition-analysis)** - Full source code and data
+<!--- **[Detailed Analysis]({{ site.baseurl }}/pages/detailed-analysis)** - In-depth exploration of results-->
+<!--- **[Methodology]({{ site.baseurl }}/pages/methodology)** - Technical details of the analysis approach-->
+<!--- **[Data Dictionary]({{ site.baseurl }}/pages/data-dictionary)** - Variable definitions and descriptions-->
+<!--- **[GitHub Repository](https://github.com/evanoster/supreme-court-coalition-analysis)** - Full source code and data-->
 
 ## Contact & Collaboration
 
