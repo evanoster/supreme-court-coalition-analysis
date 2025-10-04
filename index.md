@@ -58,6 +58,10 @@ This project analyzes the Supreme Court Database* (SCDB 1953-2025, Warren-Robert
 ![Justice Voting Margins]({{ site.baseurl }}/assets/images/decision_margins_by_year.png)
 *Figure 6: Justice Voting Margins 1953 to 2024*
 
+#### Court Composition by Party of Appointing President
+![Court Composition by Party]({{ site.baseurl }}/assets/images/justices_served_by_year.png)
+*Figure 7: Court Composition by Party of Appointing President 1953 to 2024*
+
 <!--## Interactive Analysis-->
 <!--   -->
 <!--For interactive charts and detailed exploration:-->
