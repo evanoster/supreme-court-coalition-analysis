@@ -84,18 +84,17 @@ This project analyzes the Supreme Court Database* (SCDB 1953-2025, Warren-Robert
 ## Methodology
 
 ### Data Sources
-- **Supreme Court Database**: Historical voting records and case metadata
+- **Supreme Court Database**: Historical voting records (SCDB 1953/54-2024/25, Warren-Roberts)
 - **Data Coverage**: [Specify time period and number of cases analyzed]
-- **Key Variables**: Justice votes, case topics, decision dates, case outcomes
+- **Key Variables**: Justice votes, decision dates
 
 ### Analysis Approach
 1. **Data Cleaning**: Processing voting records, handling missing data, standardizing justice names
-2. **Coalition Detection**: Network analysis and clustering algorithms to identify voting blocs
+2. **Coalition Detection**: Clustering algorithms to identify voting blocs
 3. **Temporal Analysis**: Time-series analysis of coalition stability and changes
 
 ### Tools Used
-- **Python Libraries**: pandas, numpy, matplotlib, seaborn, plotly, networkx, scikit-learn
-- **Specialized Tools**: Network analysis libraries for coalition detection
+- **Python Libraries**: pandas, numpy, matplotlib, seaborn, plotly, scikit-learn
 - **Environment**: Jupyter Notebook
 - **Version Control**: Git/GitHub
 
@@ -142,12 +141,12 @@ This project analyzes the Supreme Court Database* (SCDB 1953-2025, Warren-Robert
 | Metric | Value |
 |--------|-------|
 | Total Cases Analyzed | [Your number] |
-| Time Period | [1953 to 2024 Court Sessions, Warren to Roberts] |
+| Time Period | [1953/54 to 2023/24 Court Sessions, Warren to Roberts] |
 | Number of Justices | [37] |
 | Major Coalitions Identified | [Your findings] |
 | Average Coalition Stability | [Your metric] |
 
-### Legal and Political Implications
+### Legal and Political Implications - Areas for Future Inquiry
 
 1. **Coalition Stability**: Understanding how consistent voting blocs influence court decisions
 2. **Ideological Shifts**: Tracking changes in judicial philosophy over time  
