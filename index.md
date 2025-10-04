@@ -140,11 +140,11 @@ This project analyzes the Supreme Court Database* (SCDB 1953-2025, Warren-Robert
 
 | Metric | Value |
 |--------|-------|
-| Total Cases Analyzed | [Your number] |
+| Total Cases Analyzed | [4.869 Decided by Nine Justices] |
 | Time Period | [1953/54 to 2023/24 Court Sessions, Warren to Roberts] |
 | Number of Justices | [37] |
-| Major Coalitions Identified | [Your findings] |
-| Average Coalition Stability | [Your metric] |
+| Major Coalitions Identified | [Three during 2022/23 to 2024/25] |
+
 
 ### Legal and Political Implications - Areas for Future Inquiry
 
