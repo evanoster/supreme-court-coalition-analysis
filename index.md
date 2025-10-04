@@ -3,7 +3,7 @@ layout: default
 title: Home
 --- 
 
-# Supreme Court Coalition Analysis - SCOTUS and Data Science
+# SCOTUS and Data Science
 
 Welcome to my analysis of Supreme Court voting coalitions and judicial behavior patterns! This site showcases insights and visualizations generated from Python analysis of Supreme Court decisions using Jupyter notebooks.
 
