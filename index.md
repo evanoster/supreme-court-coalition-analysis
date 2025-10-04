@@ -19,7 +19,7 @@ This project analyzes the Supreme Court Database* (SCDB 1953-2025, Warren-Robert
 
 ### Main Results Summary
 
-- **Coalition Patterns**: Identification of consistent voting blocs among justices across different case types
+- **Coalition Patterns**: Identification of consistent voting blocs among justices
 - **Temporal Trends**: How judicial coalitions have evolved over different Supreme Court eras
 
 ### Areas for Future Inquiry
@@ -84,7 +84,6 @@ This project analyzes the Supreme Court Database* (SCDB 1953-2025, Warren-Robert
 1. **Data Cleaning**: Processing voting records, handling missing data, standardizing justice names
 2. **Coalition Detection**: Network analysis and clustering algorithms to identify voting blocs
 3. **Temporal Analysis**: Time-series analysis of coalition stability and changes
-4. **Statistical Modeling**: Regression analysis of factors influencing coalition formation
 
 ### Tools Used
 - **Python Libraries**: pandas, numpy, matplotlib, seaborn, plotly, networkx, scikit-learn
