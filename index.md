@@ -53,6 +53,11 @@ This project analyzes the Supreme Court Database* (SCDB 1953-2025, Warren-Robert
 ![Justice Pairs Agreement]({{ site.baseurl }}/assets/images/justice_pair_agreements_by_type.png)
 *Figure 3: Justice Pair Agreement Rates by Party of Appointing President and Over Time*
 
+
+#### Justice Voting Margins
+![Justice Voting Margins]({{ site.baseurl }}/assets/images/decision_margins_by_year.png)
+*Figure 6: Justice Voting Margins 1953 to 2024*
+
 <!--## Interactive Analysis-->
 <!--   -->
 <!--For interactive charts and detailed exploration:-->
