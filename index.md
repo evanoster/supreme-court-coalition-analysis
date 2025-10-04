@@ -3,7 +3,7 @@ layout: default
 title: Home
 --- 
 
-# Supreme Court Coalition Analysis
+# Supreme Court Coalition Analysis - SCOTUS and Data Science
 
 Welcome to my analysis of Supreme Court voting coalitions and judicial behavior patterns! This site showcases insights and visualizations generated from Python analysis of Supreme Court decisions using Jupyter notebooks.
 
@@ -19,7 +19,7 @@ This project analyzes the Supreme Court Database* (SCDB 1953-2025, Warren-Robert
 
 ### Main Results Summary
 
-- **Coalition Patterns**: Identification of consistent voting blocs among justices
+- **Coalition Patterns**: Identification of voting blocs among justices
 - **Temporal Trends**: How judicial coalitions have evolved over different Supreme Court eras
 
 ### Areas for Future Inquiry
