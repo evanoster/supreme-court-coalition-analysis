@@ -29,42 +29,46 @@ This project analyzes the Supreme Court Database* (SCDB 1953-2025, Warren-Robert
 ### Featured Visualizations
 
 
-#### Coalition Analysis over Time
-![MDS Coalitions Stable Periods]({{ site.baseurl }}/assets/images/mds_stable_periods.png)
-*Figure 1: MDS visualization showing justice voting coalitions during stable (no turnover) periods*"\"
-
-
 #### Justice Pair Agreement Rates
 ![Justice Pairs Agreement]({{ site.baseurl }}/assets/images/justice_pair_agreements_boxplot.png)
-*Figure 4: Justice Pair Agreement Rates 1953-2024*
+*Figure 1: Justice Pair Agreement Rates 1953-2024*
 
 
 #### Justice Pair Agreement Rates
 ![Justice Pairs Agreement]({{ site.baseurl }}/assets/images/justice_pair_agreements_boxplot_by_type.png)
-*Figure 5: Justice Pair Agreement Rates 1953-2024 by Party of Appointing President*
+*Figure 2: Justice Pair Agreement Rates 1953-2024 by Party of Appointing President*
 
 
 #### Justice Pair Agreement Rates
 ![Justice Pairs Agreement]({{ site.baseurl }}/assets/images/justice_pair_agreements.png)
-*Figure 2: Justice Pair Agreement Rates over Time by Party of Appointing President*
+*Figure 3: Justice Pair Agreement Rates over Time by Party of Appointing President*
 
 
 #### Justice Pair Agreement Rates
 ![Justice Pairs Agreement]({{ site.baseurl }}/assets/images/justice_pair_agreements_by_type.png)
-*Figure 3: Justice Pair Agreement Rates by Party of Appointing President and Over Time*
+*Figure 4: Justice Pair Agreement Rates by Party of Appointing President and Over Time*
 
 
 #### Justice Voting Margins
 ![Justice Voting Margins]({{ site.baseurl }}/assets/images/decision_margins_by_year.png)
-*Figure 6: Justice Voting Margins 1953 to 2024*
+*Figure 5: Justice Voting Margins 1953 to 2024*
+
 
 #### Court Composition by Party of Appointing President
 ![Court Composition by Party]({{ site.baseurl }}/assets/images/justices_served_by_year.png)
-*Figure 7: Court Composition by Party of Appointing President 1953 to 2024*
+*Figure 6: Court Composition by Party of Appointing President 1953 to 2024*
 
-#### Camparison of Segmentation Methods
+
+#### Comparison of Segmentation Methods
 ![Comparison of Segmentation Methods]({{ site.baseurl }}/assets/images/method_comparison_2023_24.png)
-*Figure 8: Camparison of Segmentation (Dimensionality Reduction) Methods Applied to 2023 to 2024*
+*Figure 7: Camparison of Segmentation (Dimensionality Reduction) Methods Applied to 2023 to 2024*
+
+
+#### Coalition Analysis over Time
+![MDS Coalitions Stable Periods]({{ site.baseurl }}/assets/images/mds_stable_periods.png)
+*Figure 8: MDS visualization showing justice voting coalitions during stable (no turnover) periods*
+
+
 
 <!--## Interactive Analysis-->
 <!--   -->
@@ -102,34 +106,34 @@ This project analyzes the Supreme Court Database* (SCDB 1953-2025, Warren-Robert
 - **Data Files**: Located in `/data/` directory
 - **Generated Charts**: Static images in `/assets/images/`, interactive in `/assets/charts/`
 
-### Code Highlights
+<!--### Code Highlights-->
 
-Here's a sample of the key analysis code:
+<!--Here's a sample of the key analysis code:-->
 
-```python
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-import networkx as nx
+<!--```python-->
+<!--import pandas as pd-->
+<!--import matplotlib.pyplot as plt-->
+<!--import seaborn as sns-->
+<!--import networkx as nx-->
 
-# Load Supreme Court voting data
-df = pd.read_csv('data/supreme_court_votes.csv')
-print(f"Dataset shape: {df.shape}")
+<!--# Load Supreme Court voting data-->
+<!--df = pd.read_csv('data/supreme_court_votes.csv')-->
+<!--print(f"Dataset shape: {df.shape}")-->
 
-# Calculate justice agreement matrix
-agreement_matrix = df.pivot_table(
-    index='justice1', 
-    columns='justice2', 
-    values='agreement_rate'
-)
+<!--# Calculate justice agreement matrix-->
+<!--agreement_matrix = df.pivot_table(-->
+<!--   index='justice1', -->
+<!--    columns='justice2', -->
+<!--    values='agreement_rate'-->
+<!--)-->
 
-# Create coalition network
-G = nx.from_pandas_adjacency(agreement_matrix)
-plt.figure(figsize=(12, 8))
-nx.draw_spring(G, with_labels=True, node_color='lightblue')
-plt.title('Supreme Court Justice Coalition Network')
-plt.show()
-```
+<!--# Create coalition network-->
+<!--G = nx.from_pandas_adjacency(agreement_matrix)-->
+<!--plt.figure(figsize=(12, 8))-->
+<!--nx.draw_spring(G, with_labels=True, node_color='lightblue')-->
+<!--plt.title('Supreme Court Justice Coalition Network')-->
+<!--plt.show()-->
+<!--```-->
 
 ## Results Summary
 
