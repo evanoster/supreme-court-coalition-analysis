@@ -101,9 +101,9 @@ This project analyzes the Supreme Court Database* (SCDB 1953-2025, Warren-Robert
 ## Repository Contents
 
 ### Files and Notebooks
-- **[Main Analysis Notebook]({{ site.baseurl }}/your_notebook.ipynb)**: Complete analysis with code and explanations
+- **[Main Analysis Notebook]({{ site.baseurl }}/Supreme_Court_16.ipynb)**: Complete analysis with code and explanations
 - **Data Files**: Located in `/data/` directory
-- **Generated Charts**: Static images in `/assets/images/`, interactive in `/assets/charts/`
+- **Generated Charts**: Static images in `/assets/images/`
 
 <!--### Code Highlights-->
 
