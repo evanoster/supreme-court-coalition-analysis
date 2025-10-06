@@ -8,10 +8,10 @@ Comprehensive analysis of Supreme Court voting patterns and coalition formation 
 
 ## 🎯 Key Features
 
-- **Coalition Network Analysis**: Interactive visualization of justice voting relationships
-- **Machine Learning Prediction**: Models achieving high accuracy in predicting case outcomes  
+<!--- **Coalition Network Analysis**: Interactive visualization of justice voting relationships -->
+<!--- - **Machine Learning Prediction**: Models achieving high accuracy in predicting case outcomes -->  
 - **Historical Trend Analysis**: Tracking changes in Court dynamics over decades
-- **Interactive Visualizations**: Dynamic charts and graphs for data exploration
+<!--- - **Interactive Visualizations**: Dynamic charts and graphs for data exploration -->
 - **Comprehensive Data Processing**: Analysis of 8,500+ Supreme Court cases
 
 ## 📊 Explore the Supreme Court Coalition Analysis
