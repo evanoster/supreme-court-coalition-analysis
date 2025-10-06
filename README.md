@@ -13,6 +13,8 @@ Comprehensive analysis of Supreme Court voting patterns and coalition formation 
 - **Historical Trend Analysis**: Tracking changes in Court dynamics over decades
 <!--- - **Interactive Visualizations**: Dynamic charts and graphs for data exploration -->
 - **Comprehensive Data Processing**: Analysis of 8,500+ Supreme Court cases
+- **Coalition Patterns**: Identification of voting blocs among justices
+- **Temporal Trends**: How judicial coalitions have evolved over different Supreme Court eras
 
 ## 📊 Explore the Supreme Court Coalition Analysis
 
