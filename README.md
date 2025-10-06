@@ -1,8 +1,8 @@
-# Supreme Court Coalition Analysis
+# US Supreme Court Coalition Analysis
 
 ## 🏛️ Project Overview
 
-Comprehensive analysis of Supreme Court voting patterns and coalition formation using advanced data science techniques. This project analyzes the complete Supreme Court Database* (SCDB 1953-2025, Warren-Roberts) to uncoverpatterns in judicial decision-making and visualize justice relationships.
+Comprehensive analysis of US Supreme Court voting patterns and coalition formation using advanced data science techniques. This project analyzes the complete Supreme Court Database* (SCDB 1953-2025, Warren-Roberts) to uncoverpatterns in judicial decision-making and visualize justice relationships.
 
 *Harold J. Spaeth, Lee Epstein, et al. 2025 Supreme Court Database, Version 2025 Release 1. URL: http://supremecourtdatabase.org
 
@@ -18,18 +18,18 @@ Comprehensive analysis of Supreme Court voting patterns and coalition formation 
 
 ## 📊 Explore the Supreme Court Coalition Analysis
 
-### 🔍 [Complete Analysis Notebook →](https://github.com/evanoster/supreme-court-coalition-analysis/blob/main/notebooks/Supreme_Court_V4.ipynb)
+### 🔍 [Complete Analysis Notebook →](https://github.com/evanoster/supreme-court-coalition-analysis/blob/main/notebooks/Supreme_Court_V16.ipynb)
 
 **What's inside:**
-- **Supreme Court Database analysis** (SCDB 2024 V4 - latest version)
-- **Coalition network analysis** identifying justice voting patterns
-- **Machine learning models** predicting case outcomes
-- **Interactive visualizations** and statistical analysis
-- **Historical trends** in judicial decision-making
+- **Supreme Court Database analysis** (SCDB 2025 Release 01, September 01, 2025)
+- **Coalition analysis** identifying justice voting patterns
+<!--- - **Machine learning models** predicting case outcomes-->
+<!--- - **Interactive visualizations** and statistical analysis-->
+- **Historical trends** in judicial decision-making and coalitions
 
 ### Alternative Viewers
-- **[🚀 Google Colab (interactive)](https://colab.research.google.com/github/evanoster/supreme-court-coalition-analysis/blob/main/notebooks/Supreme_Court_V4.ipynb)** - Run the code yourself
-- **[📖 GitHub Viewer (recommended)](https://github.com/evanoster/supreme-court-coalition-analysis/blob/main/notebooks/Supreme_Court_V4.ipynb)** - Fast, reliable notebook viewing
+- **[🚀 Google Colab (interactive)](https://colab.research.google.com/github/evanoster/supreme-court-coalition-analysis/blob/main/notebooks/Supreme_Court_V16.ipynb)** - Run the code yourself
+- **[📖 GitHub Viewer (recommended)](https://github.com/evanoster/supreme-court-coalition-analysis/blob/main/notebooks/Supreme_Court_V16.ipynb)** - Fast, reliable notebook viewing
 
 *Google Colab automatically sets up the environment and downloads your data - no installation required!*
 
@@ -38,30 +38,30 @@ Comprehensive analysis of Supreme Court voting patterns and coalition formation 
 - **Python 3.11** - Core programming language
 - **Pandas & NumPy** - Data manipulation and analysis
 - **Scikit-learn** - Machine learning models
-- **NetworkX** - Network analysis and graph theory
-- **Plotly & Matplotlib** - Interactive and static visualizations
+<!--- - **NetworkX** - Network analysis and graph theory-->
+- **Plotly & Matplotlib** - Visualizations
 - **Jupyter Notebooks** - Interactive analysis environment
 
 ## 📈 Key Results & Findings
 
 ### Dataset Information
-- **Source**: Supreme Court Database (SCDB) 2024 V4
-- **Coverage**: Comprehensive case data with individual justice votes
-- **Time Period**: Historical Supreme Court decisions
-- **Format**: Case-centered CSV data structure
+- **Source**: Supreme Court Database (SCDB) 2025 Release 01
+- **Coverage**: Individual justice votes for each case id
+- **Time Period**: Historical Supreme Court decisions 1953/54 to 2024/25 terms
+- **Format**: Justice-centered CSV data structure
 - **Size**: 8,500+ Supreme Court cases analyzed
 
 ### Analysis Highlights
-- **Justice Coalition Identification**: Network analysis revealing voting alliances
-- **Predictive Modeling**: Machine learning approach to case outcome prediction
+- **Justice Coalition Identification**: Unsupervised learning analysis revealing voting alliances
+<!--- - **Predictive Modeling**: Machine learning approach to case outcome prediction -->
 - **Temporal Analysis**: Evolution of Court dynamics over time
 - **Statistical Insights**: Quantitative analysis of judicial behavior patterns
 
 ## 🚀 Getting Started
 
 ### Quick Start (No Installation)
-1. **[Click here to view the analysis](https://github.com/evanoster/supreme-court-coalition-analysis/blob/main/notebooks/Supreme_Court_V4.ipynb)** - See all code, outputs, and visualizations
-2. **[Open in Google Colab](https://colab.research.google.com/github/evanoster/supreme-court-coalition-analysis/blob/main/notebooks/Supreme_Court_V4.ipynb)** - Run the analysis interactively
+1. **[Click here to view the analysis](https://github.com/evanoster/supreme-court-coalition-analysis/blob/main/notebooks/Supreme_Court_V16.ipynb)** - See all code, outputs, and visualizations
+2. **[Open in Google Colab](https://colab.research.google.com/github/evanoster/supreme-court-coalition-analysis/blob/main/notebooks/Supreme_Court_V16.ipynb)** - Run the analysis interactively
 3. **GitHub renders notebooks beautifully** - All charts, outputs, and code display perfectly
 
 ### Local Installation
