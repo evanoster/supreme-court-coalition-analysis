@@ -61,8 +61,8 @@ This project analyzes the Supreme Court Database* (SCDB 1953-2025, Warren-Robert
 
 
 #### Comparison of Segmentation Methods
-![Comparison of Segmentation Methods]({{ site.baseurl }}/assets/images/method_comparison_2023_24.png)
-*Figure 7: Camparison of Segmentation (Dimensionality Reduction) Methods Applied to 2023 to 2024*
+![Comparison of Segmentation Methods]({{ site.baseurl }}/assets/images/method_comparison_2022_24.png)
+*Figure 7: Camparison of Segmentation (Dimensionality Reduction) Methods Applied to 2022 to 2024*
 
 
 #### Coalition Analysis over Time
