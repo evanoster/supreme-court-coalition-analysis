@@ -35,7 +35,7 @@ Comprehensive analysis of US Supreme Court voting patterns and coalition formati
 
 ## 🛠️ Technologies Used
 
-- **Python 3.11** - Core programming language
+- **Python 3.8.8** - Core programming language
 - **Pandas & NumPy** - Data manipulation and analysis
 - **Scikit-learn** - Machine learning models
 <!--- - **NetworkX** - Network analysis and graph theory-->
@@ -107,24 +107,24 @@ supreme-court-coalition-analysis/
 - **Feature Engineering**: Creation of relevant variables for analysis
 - **Model Development**: Unspervised learning
 
-## 📊 Sample Visualizations
+<!---## 📊 Sample Visualizations-->
 
-The analysis includes:
-- **Interactive Justice Networks**: Clickable graphs showing coalition relationships
-- **Temporal Trend Charts**: Time series analysis of Court dynamics
-- **Statistical Dashboards**: Summary statistics and key metrics
-- **Predictive Model Results**: Accuracy scores and performance metrics
+<!---The analysis includes:-->
+<!---- **Interactive Justice Networks**: Clickable graphs showing coalition relationships-->
+<!---- **Temporal Trend Charts**: Time series analysis of Court dynamics-->
+<!---- **Statistical Dashboards**: Summary statistics and key metrics-->
+<!---- **Predictive Model Results**: Accuracy scores and performance metrics-->
 
 ## 🤝 Contributing
 
 Contributions are welcome! This project demonstrates:
 - **Data Science Best Practices**: Clean, documented, reproducible analysis
 - **Modern Python Stack**: Industry-standard libraries and techniques
-- **Interactive Visualization**: Engaging presentation of complex data
+- **Visualization**: Engaging presentation of complex data
 - **Academic Rigor**: Methodologically sound approach to judicial analysis
 
 ### Areas for Contribution
-- Additional statistical analyses
+- Additional statistical analyses, for example, graph theory and social network analysis
 - Enhanced visualization features
 - Extended time period coverage
 - Alternative modeling approaches
@@ -143,8 +143,8 @@ This project is open source and available under the MIT License.
 
 ## 🔗 Quick Links
 
-- **[📓 View Analysis Notebook](https://github.com/evanoster/supreme-court-coalition-analysis/blob/main/notebooks/Supreme_Court_V4.ipynb)** - Complete analysis with code and results
-- **[🚀 Run in Google Colab](https://colab.research.google.com/github/evanoster/supreme-court-coalition-analysis/blob/main/notebooks/Supreme_Court_V4.ipynb)** - Interactive version
+- **[📓 View Analysis Notebook](https://github.com/evanoster/supreme-court-coalition-analysis/blob/main/notebooks/Supreme_Court_16.ipynb)** - Complete analysis with code and results
+- **[🚀 Run in Google Colab](https://colab.research.google.com/github/evanoster/supreme-court-coalition-analysis/blob/main/notebooks/Supreme_Court_16.ipynb)** - Interactive version
 - **[⭐ GitHub Pages Site](https://evanoster.github.io/supreme-court-coalition-analysis)** - Project showcase
 
 ---
