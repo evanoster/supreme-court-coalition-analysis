@@ -71,10 +71,10 @@ git clone https://github.com/evanoster/supreme-court-coalition-analysis.git
 cd supreme-court-coalition-analysis
 
 # Install required packages
-pip install pandas numpy matplotlib seaborn plotly scikit-learn networkx jupyter
+pip install pandas numpy matplotlib seaborn plotly scikit-learn jupyter
 
 # Launch Jupyter notebook
-jupyter notebook "notebooks/Supreme_Court_V4.ipynb"
+jupyter notebook "notebooks/Supreme_Court_16.ipynb"
 ```
 
 ## 📁 Project Structure
@@ -82,10 +82,10 @@ jupyter notebook "notebooks/Supreme_Court_V4.ipynb"
 ```
 supreme-court-coalition-analysis/
 ├── notebooks/
-│   └── Supreme_Court_V4.ipynb    # Main analysis notebook
+│   └── Supreme_Court_16.ipynb    # Main analysis notebook
 ├── data/
 │   └── raw/
-│       └── SCDB_2024_V4.csv     # Supreme Court Database
+│       └── SCDB_2025_01_V3.csv     # Supreme Court Database
 ├── README.md                     # Project documentation
 └── requirements.txt              # Python dependencies
 ```
@@ -94,20 +94,18 @@ supreme-court-coalition-analysis/
 
 ### Data Sources
 - **Supreme Court Database (SCDB)**: Comprehensive database of Supreme Court decisions
-- **Case-Centered Analysis**: Focus on individual cases and justice votes
+- **Justice-Centered Analysis**: Focus on justice votes and individual cases
 - **Historical Coverage**: Multi-decade analysis of Court evolution
 
 ### Analytical Approaches
-- **Network Analysis**: Graph theory applied to justice voting relationships
 - **Statistical Modeling**: Quantitative analysis of voting patterns
-- **Machine Learning**: Predictive models for case outcomes
-- **Data Visualization**: Interactive charts and network diagrams
+- **Machine Learning**: Unspervised models of justice coalitions
+- **Data Visualization**: Graphical represenations of data
 
 ### Technical Implementation
 - **Data Processing**: Cleaning and structuring of Supreme Court data
 - **Feature Engineering**: Creation of relevant variables for analysis
-- **Model Development**: Training and validation of predictive algorithms
-- **Visualization Creation**: Interactive charts using modern web technologies
+- **Model Development**: Unspervised learning
 
 ## 📊 Sample Visualizations
 
