@@ -85,7 +85,7 @@ This project analyzes the Supreme Court Database* (SCDB 1953-2025, Warren-Robert
 
 ### Data Sources
 - **Supreme Court Database**: Historical voting records (SCDB 1953/54-2024/25, Warren-Roberts)
-- **Data Coverage**: [Specify time period and number of cases analyzed]
+- **Data Coverage**: 8,529 unique cases ids
 - **Key Variables**: Justice votes, decision dates
 
 ### Analysis Approach
